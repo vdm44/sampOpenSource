@@ -7,7 +7,7 @@
 希望能讲数据存在云端共享，使SAMP继续传承，使开源脚本活下去而非几乎绝版。<br>
 哪天想念了，需要文件可以来这下载。<br>
 <br>
-[![](https://github.com/YuCarl77/sampOpenSource/raw/master/%7BAYZX%5DD%7DT%5D6S7LWMXUW0%40Z1.jpg)](http://space.bilibili.com/666)
+[![](https://github.com/YuCarl77/sampOpenSource/raw/master/%7BAYZX%5DD%7DT%5D6S7LWMXUW0%40Z1.gif)](http://space.bilibili.com/666)
 
 
 
