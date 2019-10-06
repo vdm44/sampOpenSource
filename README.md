@@ -8,5 +8,5 @@
 哪天想念了，需要文件可以来这下载。<br>
 <br>
 [![RST官方B站账号]](https://space.bilibili.com/6667765/)  
-[纪念照片]:https://github.com/YuCarl77/sampOpenSource/blob/master/%7BAYZX%5DD%7DT%5D6S7LWMXUW0%40Z1.jpg "纪念照片"  
+![纪念照片]:(https://github.com/YuCarl77/sampOpenSource/blob/master/%7BAYZX%5DD%7DT%5D6S7LWMXUW0%40Z1.jpg) 
 <br>
