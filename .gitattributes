@@ -1,0 +1,4 @@
+public/* linguist-vendored
+*.js linguist-language=c/pawn;
+*.css linguist-language=c/pawn；
+*.html linguist-language=c/pawn;
