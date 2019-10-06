@@ -11,7 +11,7 @@ This is a collection of open source projects by Chinese developers.
 #statement<br>
 As time goes by, the memory of our youth will fade away. <br>
 Face the current situation (localization data is easy to lose, still can insist on opening fewer servers, various BBS failure, serious player loss and other factors) 
-The hope is that data will be Shared in the cloud, SAMP will continue to be passed on, and open source scripts will live on rather than almost out of print. <br>
+The hope is that data will be Shared in the cloud, Let Chinese players who love SAMP continue to inherit, and open source scripts will live on rather than almost out of print. <br>
 Which day miss, need file to be able to download here.<br>
 From A Chinese player who loves GTA<br>
 
