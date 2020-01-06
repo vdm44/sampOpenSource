@@ -7,6 +7,8 @@ This is a collection of open source projects by Chinese developers.
 面临现状（本地化数据容易丢失，仍能坚持开设的服务器少，各种论坛倒闭，玩家流失严重等因素）<br>
 希望能讲数据存在云端共享，使SAMP继续传承，使开源脚本活下去而非几乎绝版。<br>
 哪天想念了，需要文件可以来这下载。<br>
+需要更新的话可以向我Pull
+文件均来自互联网
 <br>
 #statement<br>
 As time goes by, the memory of our youth will fade away. <br>
@@ -15,5 +17,8 @@ The hope is that data will be Shared in the cloud, Let Chinese players who love 
 Which day miss, need file to be able to download here.<br>
 From A Chinese player who loves GTA<br>
 
+If you need to update it, you can pull it from me
+
+All files are from the Internet
 
  ![image](https://github.com/YuCarl77/sampOpenSource/blob/master/562.jpg)
